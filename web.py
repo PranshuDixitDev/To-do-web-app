@@ -33,7 +33,7 @@ def add_todo():
     functions.write_todos(todos)
 
 
-st.title("My Todo App")
+st.title("Task Master")
 st.subheader(get_current_time())
 st.write("This app is to increase your productivity.")
 
